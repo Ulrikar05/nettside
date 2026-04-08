@@ -1,0 +1,19 @@
+body {
+  font-family: 'Poppins', sans-serif;
+}
+
+.hero {
+  background-image: url("gaming.jpg");
+  height: 400px;
+  background-size: cover;
+  background-position: center;
+}
+
+.bg-1 {
+  background-color: #111;
+  color: white;
+}
+
+.card {
+  border-radius: 12px;
+}
